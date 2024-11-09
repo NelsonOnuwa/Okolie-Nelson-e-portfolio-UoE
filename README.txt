@@ -1,32 +1,28 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Skills:
+
+I am highly adaptive, naturally friendly and people oriented
+
+I have a very good power of intuition and a creative mind which makes me valuable to tackle real problems effectively and find solutions to them
+
+I have a great futuristic approach for long them growth which makes me valuable in planning, scheduling and monitoring project. I have a strong desire to leave a career environment better than I found it, this is due to my ideas for improvement.
+
+My service philosophy is "Solve a customer's problem by providing exceptional and excellent service then you will have a repeat customer who is always more valuable than a one time customer".
+
+I would like to obtain a position with a well-established firm that affords me the opportunity to take on exciting challenges and contribute both to its growth and success. To explore new directions, test out my skills and sharpen my awareness of what motivates me.
 
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Objectives:
 
-(* = not included)
+To obtain a position with a well-established firm that affords me the opportunity to take on exciting challenges, contribute to its growth and success.
 
-AJ
-aj@lkn.io | @ajlkn
+To explore new directions, test out my skills and sharpen my awareness of what motivates me
 
+Academic qualification obtained with dates:
 
-Credits:
+2023 Post graduate diploma in Data Science (in view) University of Essex
 
-	Demo Images:
-		Unsplash (unsplash.com)
+2009 Bachelor of Science (B.Sc.) Biochemistry (Second Class Lower) University of Jos, Plateau State
 
-	Icons:
-		Font Awesome (fontawesome.io)
+2003 Diploma in Information Technology Modern Business Machine Computer School, Jos, Plateau State
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
