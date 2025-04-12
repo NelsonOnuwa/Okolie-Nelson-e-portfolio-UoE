@@ -1,6 +1,6 @@
 Skills:
 
-I am highly adaptive, naturally friendly and people oriented
+I am a natural adaptor,friendly and people oriented
 
 I have a very good power of intuition and a creative mind which makes me valuable to tackle real problems effectively and find solutions to them
 
